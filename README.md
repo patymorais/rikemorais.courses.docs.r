@@ -1,2 +1,2 @@
 # rikemorais.courses.docs.r
-Learning to Teach R
+Aprendendo a Ensinar a Linguagem R.
